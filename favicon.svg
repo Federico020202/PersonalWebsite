@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="178px" height="178px" viewBox="0 0 178 178" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>logo v2 felix</title>
+    <desc>Created with Sketch.</desc>
+    <g id="logo-v2-felix" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" stroke="#050404" stroke-width="2" fill="#000000" cx="89" cy="89" r="89"></circle>
+        <path d="M89,178 C138.153343,178 178,138.153343 178,89 C178,39.8466573 138.153343,0 89,0 C39.8466573,0 0,39.8466573 0,89 C0,112.23439 28.8001207,113.687213 43.3810645,129.537128 C59.6467291,147.218384 63.0810472,178 89,178 Z" id="Oval" fill="#FFFFFF"></path>
+        <text id="felix" fill="#000000" font-family="JosefinSans-Light, Josefin Sans Light" font-size="21" font-weight="normal" line-spacing="20" letter-spacing="2.71764684">
+            <tspan x="65" y="99">feli</tspan>
+            <tspan x="102.036587" y="99" letter-spacing="2.85352921">x</tspan>
+        </text>
+    </g>
+</svg>
