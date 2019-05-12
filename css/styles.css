@@ -2,6 +2,7 @@ body {
   color: #40514E;
   margin: 0;
   text-align: center;
+  button-align: center;
   font-family: 'Merriweather', serif;
 }
 
@@ -56,7 +57,7 @@ a:hover {
 .top-container2 {
   background-color: #E4F9F5;
   position: relative;
-  padding-top: 500px;
+  padding-top: 100px;
 }
 
 .lool-container {
@@ -647,11 +648,6 @@ html, body{
   min-height:100%;
 }
 
-body{
-  		background-image: -webkit-linear-gradient(top, #edecec, #cecbc9);
-			background-image: linear-gradient(top, #edecec, #cecbc9);
-}
-
 .buttonHolder{
   margin:80px auto;
   width:400px;
@@ -698,8 +694,8 @@ body{
 		}
 
 		.tick:after{
-			content: "✔";
-			left:23px;
+			content: "✖";
+			left:24px;
 			top:16px;
 		}
 
