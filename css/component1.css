@@ -70,7 +70,7 @@ body {
 .cn-button {
   border: none;
   background: none;
-  color: #f06060;
+  color: #b0e0a8;
   text-align: center;
   font-size: 1.8em;
   padding-bottom: 1em;
@@ -190,7 +190,7 @@ items should be rotated by x, minus (sum of angles - 180)2s (for this demo) */
 
 /* active style */
 .csstransforms .cn-wrapper li.active a {
-  background-color: #b31515;
+  background-color: #b0e0a8;
   background-color: hsla(0, 88%, 70%, 1);
 }
 
